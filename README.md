@@ -27,14 +27,6 @@ El proyecto incluye ejercicios en los siguientes temas:
    - Condiciones `if`, `elif`, y `else` para control de flujo.
    - Ejercicios que combinan bucles y condiciones para resolver problemas más complejos.
 
-5. **Funciones**
-   - Definición y uso de funciones en Python.
-   - Parámetros y valores de retorno.
-   - Ejercicios prácticos que muestran cómo las funciones pueden modularizar y reutilizar el código.
-
-6. **Sentencias de Control**
-   - Control de flujo avanzado utilizando `while`, `break`, `continue` y `pass`.
-   - Ejercicios que demuestran cómo utilizar estas sentencias para manejar el flujo del programa de manera más eficiente.
 
 ## Herramientas Utilizadas
 
